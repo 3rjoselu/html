@@ -1,10 +1,9 @@
 <HTML>
 <head>
-<title>Titulo</title>
 </head>
 <body>
     <h1>Informatica</h1>
-<p>La informática, también llamada computación,1​ es una ciencia que administra métodos, técnicas y procesos con el fin de almacenar, procesar y transmitir información y datos en formato digital.
+<p>La informática, también llamada computación, es una ciencia que administra métodos, técnicas y procesos con el fin de almacenar, procesar y transmitir información y datos en formato digital.
 
     No existe una definición consensuada sobre el término, lo cual puede comprenderse a través de las Discusiones que acompañan esta página. Sin embargo, la Asociación de Docentes de Informática y Computación de la República Argentina han tomado una posición, definiéndola de la siguiente manera:
     
